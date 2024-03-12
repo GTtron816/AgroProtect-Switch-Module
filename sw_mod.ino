@@ -9,8 +9,8 @@
 #include <addons/TokenHelper.h>
 #include <addons/RTDBHelper.h>
 
-#define WIFI_SSID "Abin"
-#define WIFI_PASSWORD "aak3092001"
+#define WIFI_SSID "-"
+#define WIFI_PASSWORD "-"
 #define API_KEY "-"
 #define DATABASE_URL "-"
 
